@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**mhaarseth/mhaarseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is only the beginning. 
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Magnus Haarseth, I am currently studying Front End Development at Noroff School of Technology and Digital Media.
+
+## Skills
+
+Currently I am learning HTML, CSS and Javascript.
+
+## Contact me
+
+I can be reached by mail.
+
+mhaarseth@gmail.com
