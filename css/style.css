@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+main,
+header,
+footer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 5px 0 5px;
+}
+
+figure {
+  margin: 0; /* Removing default margin on figure element*/
+}
+
+p {
+  margin: 0; /* Removing default margin on p element*/
+}
+
+h2,
+h3,
+h4 {
+  margin: 0; /* Removing default margin on h2, h3, h4 element*/
+}

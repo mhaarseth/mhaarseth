@@ -1,0 +1,92 @@
+.header-heading {
+  text-align: right;
+  margin: 20px 20px 0 0;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 1.3rem;
+}
+
+.splash-container {
+  max-width: 1200px;
+  display: flex;
+}
+
+.splash-content {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 100px auto 100px auto;
+}
+
+.splash-heading {
+  margin: 0 auto 30px auto;
+  width: 600px;
+  font-size: 2rem;
+}
+
+.splash-heading h2 {
+  font-weight: normal;
+}
+
+.splash-copy {
+  margin-top: 40px;
+}
+
+.splash-copy-second-line {
+  margin-top: 20px;
+}
+
+.splash-content-highlight {
+  font-weight: bold;
+}
+
+.splash-image {
+  width: 600px;
+  margin: 0 auto 30px auto;
+}
+
+.splash-image img {
+  width: 75%;
+}
+
+.main-cards-heading-container h2 {
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+.main-cards-content-container {
+  margin-top: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 2%;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.card p {
+  margin-bottom: 10px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.disabled-link {
+  text-decoration: line-through;
+}
+
+.footer-container {
+  text-align: center;
+  margin-top: 30px;
+}
