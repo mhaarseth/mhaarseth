@@ -68,7 +68,7 @@ h1 {
 
 .card {
   padding: 20px;
-  border: 2px solid black;
+  border: 1px solid black;
   border-radius: 2%;
   width: 300px;
   display: flex;
