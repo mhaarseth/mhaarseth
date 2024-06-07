@@ -8,7 +8,7 @@ My name is Magnus Haarseth, I have just finished studying Front End Development 
 
 ## Skills
 
-During my years at Noroff I have learnt HTML, CSS, JS, Bootstrap and React. For personal projects I prefer using React and CSS Modules.
+During my years at Noroff I have learnt HTML, CSS, JS, Bootstrap and React (among a myriad of other things). For personal projects I prefer using React and CSS Modules.
 
 ## Contact me
 
